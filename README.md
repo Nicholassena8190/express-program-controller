@@ -1,6 +1,6 @@
 ## Express.js Program Controller
 
-Express.js Program Controller allows you to run and stop programs with requests sent to the server.
+Express.js Program Controller is a sample express.js server that allows you to run and stop programs with requests sent to the server.
 
 
 ## Requirements:

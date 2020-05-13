@@ -1,6 +1,6 @@
 ## Express.js Program Controller
 
-Express.js Program Controller is a sample server that allows you 
+Express.js Program Controller is a sample node express.js server that allows you to start, stop, or restart programs remotely with a request or requests.
 
 **NOTE:** Express.js Program Controller is getting developed by a person who doesn't have a lot of knowledge about node and express.js. The updates may probably take hours or days to do, and a lot of time of searching the web on how to do this and that.
 
@@ -34,7 +34,7 @@ You can see features that Express.js Program Controller haves here.
 | ------------ | ------------ |
 | Start Program  |  This allows you to start a program with the name of it with a request. |
 
-As you can see, Express.js Program Controller is started in development with one feature ready.
+As you can see, Express.js Program Controller is just started in development.
 
 ## Upcoming Features:
 

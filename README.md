@@ -36,9 +36,10 @@ You can see the upcoming features that are gonna get added in the next update or
 ### Easy
 | Feature: | Description: |
 | ------------ | ------------ |
+| Stop Program  |  This feature will allow you to stop or kill a program. |
+| Restart Program | This feature will allow you to restart a program, it will kill and start the program. |
 | Error Pages | |
 | Logs | This feature will add logs that can be enabled or disabled.|
-| Stop Program  |  This feature will allow you to stop or kill a program. |
 | Customizable Paths | |
 
 

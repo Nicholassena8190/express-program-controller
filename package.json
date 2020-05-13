@@ -1,0 +1,12 @@
+{
+  "name": "express-program-controller",
+  "version": "1.0.0",
+  "description": "An sample node express.js server that allows you to start, stop, or restart programs remotely.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}

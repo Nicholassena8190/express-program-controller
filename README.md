@@ -33,11 +33,25 @@ You can see features that Express.js Program Controller haves here.
 
 You can see the upcoming features that are gonna get added in the next update or in the next upcoming updates here.
 
+### Easy
 | Feature: | Description: |
 | ------------ | ------------ |
 | Error Pages | |
+| Logs | This feature will add logs that can be enabled or disabled.|
 | Stop Program  |  This feature will allow you to stop or kill a program. |
+| Customizable Paths | |
+
+
+### Medium
+| Feature: | Description: |
+| ------------ | ------------ |
 | Security | |
 | Multiple Program Support | This is gonna add or try to add support for multiple programs that can be started or killed at once. |
 | OS Checker | This is gonna add a checker for the user's running os like windows, or ubuntu. This may bring support for multiple operating systems for Express.js Program Controller. |
+
+### Hard
+| Feature: | Description: |
+| ------------ | ------------ |
+| ? | ? |
+
 

@@ -2,6 +2,7 @@
 
 Express.js Program Controller is a sample express.js server that allows you to run and stop programs with requests sent to the server.
 
+**NOTE** Express.js Program Controller is getting developed by a person who doesn't have a lot of knowledge about node and express.js. The updates may probably take hours or days to do, and a lot of time of searching the web on how to do this and that.
 
 ## Requirements:
 
@@ -9,16 +10,21 @@ Express.js Program Controller is a sample express.js server that allows you to r
 
 ## Current Features:
 
+You can see current features that Express.js Program Controller haves here.
+
 | Feature: | Description: |
 | ------------ | ------------ |
 | Start Program  |  This feature allows you to start a program with the name of it with a request. |
-| Error Pages | This features shows custom error pages. |
 
 ## Upcoming Features:
 
-In this selection, you can see the upcoming features that are gonna get added in the next update or in the next upcoming updates.
+You can see the upcoming features that are gonna get added in the next update or in the next upcoming updates here.
 
 | Feature: | Description: |
 | ------------ | ------------ |
-| Stop Program  |  This feature allows you to stop or kill a program. |
+| Error Pages | |
+| Stop Program  |  This feature will allow you to stop or kill a program. |
+| Security | |
+| Multiple Program Support | This is gonna add or try to add support for multiple programs that can be started or killed at once. |
+| OS Checker | This is gonna add a checker for the user's running os like windows, or ubuntu. This may bring support for multiple operating systems for Express.js Program Controller. |
 

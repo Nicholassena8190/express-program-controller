@@ -8,7 +8,7 @@ Express.js Program Controller is a node express.js server that allows you to sta
 
 Using this program for any malicious purposes like destroying a system, hacking a website, or for a R.A.T (Remote Administrator Trojan) is **NOT ALLOWED!**
 
-IF YOU IGNORE THE DISCLAIMER, AND DECIDED TO USE THIS FOR MALICIOUS PURPOSES, I am **NOT** responsible for any **misuse** or **damage** caused by this program if you decided to use this program for malicious purposes. You take **FULL** responsibility for any malicious actions by this program if you are using it for malicious purposes. 
+I am **NOT** responsible for any **misuse** or **damage** caused by this program if you decided to use this program for malicious purposes. You take **FULL** responsibility for any malicious actions by this program if you are using it for malicious purposes. 
 
 ## Requirements:
 
@@ -73,17 +73,16 @@ You can see the upcoming features that are gonna get added in the next update or
 | ------------ | ------------ |
 | Multiple Program Support | This is gonna add or try to add support for multiple programs that can be started, stopped, or restarted at once. **This upcoming feature may be removed.** |
 | Live Program Output | |
-| Better Program/Process Protection | |
-| Security | This may be hard to make.   |
-
-Yeah, I know that security is important if you don't want random people or anyone running random commands that can possibly destroy or upload some stuff to a website from your computer or server if you use this.
-
-Yeah, you can use this at your own **RISK** until I add some good security to the server that can be enabled and disabled at anytime. I recommend keeping security enabled if you want your server or computer secure.
 
 ### Hard
 | Feature: | Description: |
 | ------------ | ------------ |
-| ? | ? |
+| Better Program/Process Protection | Idk about this. The protection may or will block specific programs from running or getting killed no matter what the command line is. |
+| Security | This may be hard to make.  |
+
+Yeah, I know that security is important if you don't want random people or anyone running random commands that can possibly destroy or upload some stuff to a website from your computer or server if you use this.
+
+Yeah, you can use this at your own **RISK** until I add some good security to the server that can be enabled and disabled at anytime. I recommend keeping security enabled if you want your server or computer secure.
 
 ## Process/Program Protection
 

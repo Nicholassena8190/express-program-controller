@@ -1,5 +1,11 @@
 ## Express.js Program Controller
 
+# NOTICE:
+
+Express Program Controller has been marked deprecated as of Auguest 10, 2021 since I moved on to other projects. This is not recommended to be used as it lacks security features and stuff.
+
+---------------------------------------------------
+
 Express.js Program Controller is a node express.js server that allows you to start, stop, or restart programs remotely. I may be removing the restart programs part if it's little possible or impossible for me to do.
 
 **NOTE:** Express.js Program Controller is getting developed by a person who doesn't have a lot of knowledge about Node and Express and EJS. The updates may probably take hours or days to do, and a lot of time of searching the web on how to do this and that.
